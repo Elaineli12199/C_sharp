@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WA20220919.Properties
+namespace WindowsFormsApp1_20220919.Properties
 {
 
 

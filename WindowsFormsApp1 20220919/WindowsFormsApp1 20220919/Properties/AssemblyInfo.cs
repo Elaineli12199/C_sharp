@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 組件的一般資訊是由下列的屬性集控制。
 // 變更這些屬性的值即可修改組件的相關
 // 資訊。
-[assembly: AssemblyTitle("WA20220919")]
+[assembly: AssemblyTitle("WindowsFormsApp1 20220919")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WA20220919")]
+[assembly: AssemblyProduct("WindowsFormsApp1 20220919")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 下列 GUID 為專案公開 (Expose) 至 COM 時所要使用的 typelib ID
-[assembly: Guid("4b2c7d0f-63b3-4441-8027-ffd5c330828b")]
+[assembly: Guid("fa699779-b321-4b2d-9485-bef1f17cda31")]
 
 // 組件的版本資訊由下列四個值所組成: 
 //

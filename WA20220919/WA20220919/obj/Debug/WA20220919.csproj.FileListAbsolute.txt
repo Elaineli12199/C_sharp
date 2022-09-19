@@ -1,9 +1,0 @@
-C:\C_sharp\C_sharp\WA20220919\WA20220919\bin\Debug\WA20220919.exe.config
-C:\C_sharp\C_sharp\WA20220919\WA20220919\bin\Debug\WA20220919.exe
-C:\C_sharp\C_sharp\WA20220919\WA20220919\bin\Debug\WA20220919.pdb
-C:\C_sharp\C_sharp\WA20220919\WA20220919\obj\Debug\WA20220919.csprojAssemblyReference.cache
-C:\C_sharp\C_sharp\WA20220919\WA20220919\obj\Debug\WA20220919.Properties.Resources.resources
-C:\C_sharp\C_sharp\WA20220919\WA20220919\obj\Debug\WA20220919.csproj.GenerateResource.cache
-C:\C_sharp\C_sharp\WA20220919\WA20220919\obj\Debug\WA20220919.csproj.CoreCompileInputs.cache
-C:\C_sharp\C_sharp\WA20220919\WA20220919\obj\Debug\WA20220919.exe
-C:\C_sharp\C_sharp\WA20220919\WA20220919\obj\Debug\WA20220919.pdb
