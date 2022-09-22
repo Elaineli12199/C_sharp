@@ -1,0 +1,10 @@
+C:\Users\kenny\Desktop\BMI\BMI_20220922\obj\Debug\BMI_20220922.csproj.AssemblyReference.cache
+C:\Users\kenny\Desktop\BMI\BMI_20220922\obj\Debug\BMI_20220922.Form1.resources
+C:\Users\kenny\Desktop\BMI\BMI_20220922\obj\Debug\BMI_20220922.Properties.Resources.resources
+C:\Users\kenny\Desktop\BMI\BMI_20220922\obj\Debug\BMI_20220922.csproj.GenerateResource.cache
+C:\Users\kenny\Desktop\BMI\BMI_20220922\obj\Debug\BMI_20220922.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\BMI\BMI_20220922\bin\Debug\BMI_20220922.exe.config
+C:\Users\kenny\Desktop\BMI\BMI_20220922\bin\Debug\BMI_20220922.exe
+C:\Users\kenny\Desktop\BMI\BMI_20220922\bin\Debug\BMI_20220922.pdb
+C:\Users\kenny\Desktop\BMI\BMI_20220922\obj\Debug\BMI_20220922.exe
+C:\Users\kenny\Desktop\BMI\BMI_20220922\obj\Debug\BMI_20220922.pdb
