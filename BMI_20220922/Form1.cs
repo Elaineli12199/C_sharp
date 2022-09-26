@@ -27,6 +27,18 @@ namespace BMI_20220922
             double BMI;
             BMI = Weight / ((Height / 100)*(Height / 100));
             label3.Text = "你的BMI值為" + BMI.ToString("F2");
+
+
+            if (BMI < 18.5) 
+            label4.Text = "身體素質指數 : 過瘦了!";
+            
+            else if (BMI < 24)
+
+            label4.Text = "身體素質指數 : 正常範圍!";
+
+            else
+                label4.Text = "身體素質指數 : 過胖了!";
+
         }
     }
 }
