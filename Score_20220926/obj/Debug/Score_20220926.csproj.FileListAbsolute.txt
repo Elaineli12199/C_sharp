@@ -1,0 +1,10 @@
+C:\Users\kenny\Desktop\Elaine\C_sharp\Score_20220926\bin\Debug\Score_20220926.exe.config
+C:\Users\kenny\Desktop\Elaine\C_sharp\Score_20220926\bin\Debug\Score_20220926.exe
+C:\Users\kenny\Desktop\Elaine\C_sharp\Score_20220926\bin\Debug\Score_20220926.pdb
+C:\Users\kenny\Desktop\Elaine\C_sharp\Score_20220926\obj\Debug\Score_20220926.csproj.AssemblyReference.cache
+C:\Users\kenny\Desktop\Elaine\C_sharp\Score_20220926\obj\Debug\Score_20220926.Form1.resources
+C:\Users\kenny\Desktop\Elaine\C_sharp\Score_20220926\obj\Debug\Score_20220926.Properties.Resources.resources
+C:\Users\kenny\Desktop\Elaine\C_sharp\Score_20220926\obj\Debug\Score_20220926.csproj.GenerateResource.cache
+C:\Users\kenny\Desktop\Elaine\C_sharp\Score_20220926\obj\Debug\Score_20220926.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\Elaine\C_sharp\Score_20220926\obj\Debug\Score_20220926.exe
+C:\Users\kenny\Desktop\Elaine\C_sharp\Score_20220926\obj\Debug\Score_20220926.pdb
