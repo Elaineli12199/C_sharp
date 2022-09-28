@@ -1,0 +1,10 @@
+C:\Users\kenny\Desktop\Elaine\C_sharp\Search 20220927\obj\Debug\Search 20220927.csproj.AssemblyReference.cache
+C:\Users\kenny\Desktop\Elaine\C_sharp\Search 20220927\obj\Debug\Search_20220927.Form1.resources
+C:\Users\kenny\Desktop\Elaine\C_sharp\Search 20220927\obj\Debug\Search_20220927.Properties.Resources.resources
+C:\Users\kenny\Desktop\Elaine\C_sharp\Search 20220927\obj\Debug\Search 20220927.csproj.GenerateResource.cache
+C:\Users\kenny\Desktop\Elaine\C_sharp\Search 20220927\obj\Debug\Search 20220927.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\Elaine\C_sharp\Search 20220927\bin\Debug\Search 20220927.exe.config
+C:\Users\kenny\Desktop\Elaine\C_sharp\Search 20220927\bin\Debug\Search 20220927.exe
+C:\Users\kenny\Desktop\Elaine\C_sharp\Search 20220927\bin\Debug\Search 20220927.pdb
+C:\Users\kenny\Desktop\Elaine\C_sharp\Search 20220927\obj\Debug\Search 20220927.exe
+C:\Users\kenny\Desktop\Elaine\C_sharp\Search 20220927\obj\Debug\Search 20220927.pdb
