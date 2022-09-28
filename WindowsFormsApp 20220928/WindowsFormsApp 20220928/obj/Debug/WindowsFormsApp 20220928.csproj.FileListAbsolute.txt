@@ -1,0 +1,10 @@
+C:\C_sharp\C_sharp\WindowsFormsApp 20220928\WindowsFormsApp 20220928\obj\Debug\WindowsFormsApp 20220928.csprojAssemblyReference.cache
+C:\C_sharp\C_sharp\WindowsFormsApp 20220928\WindowsFormsApp 20220928\obj\Debug\WindowsFormsApp_20220928.Form1.resources
+C:\C_sharp\C_sharp\WindowsFormsApp 20220928\WindowsFormsApp 20220928\obj\Debug\WindowsFormsApp_20220928.Properties.Resources.resources
+C:\C_sharp\C_sharp\WindowsFormsApp 20220928\WindowsFormsApp 20220928\obj\Debug\WindowsFormsApp 20220928.csproj.GenerateResource.cache
+C:\C_sharp\C_sharp\WindowsFormsApp 20220928\WindowsFormsApp 20220928\obj\Debug\WindowsFormsApp 20220928.csproj.CoreCompileInputs.cache
+C:\C_sharp\C_sharp\WindowsFormsApp 20220928\WindowsFormsApp 20220928\bin\Debug\WindowsFormsApp 20220928.exe.config
+C:\C_sharp\C_sharp\WindowsFormsApp 20220928\WindowsFormsApp 20220928\bin\Debug\WindowsFormsApp 20220928.exe
+C:\C_sharp\C_sharp\WindowsFormsApp 20220928\WindowsFormsApp 20220928\bin\Debug\WindowsFormsApp 20220928.pdb
+C:\C_sharp\C_sharp\WindowsFormsApp 20220928\WindowsFormsApp 20220928\obj\Debug\WindowsFormsApp 20220928.exe
+C:\C_sharp\C_sharp\WindowsFormsApp 20220928\WindowsFormsApp 20220928\obj\Debug\WindowsFormsApp 20220928.pdb
